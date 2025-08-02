@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner](2191682.jpg)
+
+
 # Hi, I'm Sameer
 
 - Interested in AI/ML Research, Software Engineering, building AI tools, and design production-ready systems.
