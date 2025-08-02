@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner](2191682.jpg)
+![Banner](feynman_cover.jpg)
 
 
 # Hi, I'm Sameer
