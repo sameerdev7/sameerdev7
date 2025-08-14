@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack 
 
-- **Languages:** Python, C/C++, Javasceipt
+- **Languages:** Python, C/C++, Javascript
 - **AI/ML:** PyTorch, Transformers, HuggingFace, ScikitLearn
 - **Backend:** FastAPI, PostgresQL, Docker
 - **Frontend:** React, Tailwind
