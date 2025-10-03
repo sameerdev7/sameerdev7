@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 
 ## Projects 
 
-- **Mini-HuggingFace** (Currently building)
-- **[Paper-Implementations](https://github.com/sameerdev7/Paper-Implementations):** Implementations of ML/DL/NLP Research Papers.
-- **[ML-Algos](https://github.com/sameerdev7/ML-Algos):** Implementing ML-Algos from Scratch. 
-
+- **[Academic-Helper-Agent](https://github.com/sameerdev7/Academic-Helper-Agent):** Helps in summarizing and making notes and slides of videos.
 
 ## Tech Stack 
 
