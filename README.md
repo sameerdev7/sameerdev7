@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ## Projects 
 
 - **[Academic-Helper-Agent](https://github.com/sameerdev7/Academic-Helper-Agent):** Helps in summarizing and making notes and slides of videos.
+- **[From LR-Transformers](https://github.com/sameerdev7/From-LR-Transformers):** Collection of Deep Learning Paper Implementations.
+- **[AI Blog Generator](https://github.com/sameerdev7/AI-Blog-Generator):** AI powered comprehensive Blog generation app.
+
 
 ## Tech Stack 
 
