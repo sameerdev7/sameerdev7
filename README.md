@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## Projects 
 
+- **[ThinkbookLM](https://github.com/sameerdev7/Thinkbook-LM):** A Notebook-LM clone with citation first RAG Architecture for multi-format document processing
 - **[TransformerLM](https://github.com/sameerdev7/TransformerLM):** A decoder-only Transformer language model trained from scratch.
 - **[Academic-Helper-Agent](https://github.com/sameerdev7/Academic-Helper-Agent):** Helps in summarizing and making notes and slides of videos.
 - **[From LR-Transformers](https://github.com/sameerdev7/From-LR-Transformers):** Collection of Deep Learning Paper Implementations.
