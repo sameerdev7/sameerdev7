@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - **[TextToSQL](https://github.com/sameerdev7/TextToSQL):** Fine-tuned Phi-3.5 Mini Instruct for Text-to-SQL and deployed a quantized llama.cpp inference pipeline with FastAPI and Streamlit.
 - **[Academic-Helper-Agent](https://github.com/sameerdev7/Academic-Helper-Agent):** Helps in summarizing and making notes and slides of videos.
 - **[From LR-Transformers](https://github.com/sameerdev7/From-LR-Transformers):** Collection of Deep Learning Paper Implementations.
+- **[From Flops To Frontier](https://github.com/sameerdev7/from-flops-to-frontier):** 12 months of building ML systems from scratch — transformers, scaling laws, and GPU kernels.
+- **[cuda100](https://github.com/sameerdev7/cuda100):** Implementing CUDA kernels for 100 days. 
 
 ## Tech Stack 
 
