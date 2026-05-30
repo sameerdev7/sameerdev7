@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - **[From Flops To Frontier](https://github.com/sameerdev7/from-flops-to-frontier):** 12 months of building ML systems from scratch — transformers, scaling laws, and GPU kernels.
 - **[cuda100](https://github.com/sameerdev7/cuda100):** Implementing CUDA kernels for 100 days.
 ---
-- **[HireMe](https://github.com/sameerdev7/nexbank):** A full stack digital banking portal, built in Spring Boot and React.
-- **[NexBank](https://github.com/sameerdev7/hireme):** Job hunting automation engine built in Spring Boot.
+- **[NexBank](https://github.com/sameerdev7/nexbank):** A full stack digital banking portal, built in Spring Boot and React.
+- **[HireMe](https://github.com/sameerdev7/hireme):** Job hunting automation engine built in Spring Boot.
 
 ## Tech Stack 
 
