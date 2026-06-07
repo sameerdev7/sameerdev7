@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - **Languages:** Python, C/C++, Javascript, Typescript, Java
 - **AI/ML:** PyTorch, Transformers, HuggingFace, ScikitLearn
-- **Backend:** FastAPI, PostgresQL, Docker, SprintBoot
+- **Backend:** FastAPI, PostgresQL, Docker, SpringBoot
 - **Frontend:** React, Tailwind
 
 
