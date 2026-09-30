@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - **[Research Copilot](https://github.com/sameerdev7/Research_Copilot):** A multi-agent research assistant that ingests arXiv papers and answers questions with inline citations, using a LangGraph retrieval–synthesis–critique loop.
 - **[Coding Agent](https://github.com/sameerdev7/Coding_Agent):** An autonomous LangGraph coding agent that plans fixes, edits files and runs tests in a sandboxed repo until they pass.
-- **[Marginalia](https://github.com/sameerdev7/Marginalia):** A FastAPI backend for social book tracking, with CRUD APIs, Pydantic schemas, SQLAlchemy models, Alembic migrations and JWT auth.
+- **[Athenaeum](https://github.com/sameerdev7/Athenaeum):** A FastAPI backend for social book tracking, with CRUD APIs, Pydantic schemas, SQLAlchemy models, Alembic migrations and JWT auth.
 - **[ThinkbookLM](https://github.com/sameerdev7/Thinkbook-LM):** A Notebook-LM clone with citation first RAG Architecture for multi-format document processing
 - **[TransformerLM](https://github.com/sameerdev7/TransformerLM):** A decoder-only Transformer language model trained from scratch.
 - **[TextToSQL](https://github.com/sameerdev7/TextToSQL):** Fine-tuned Phi-3.5 Mini Instruct for Text-to-SQL and deployed a quantized llama.cpp inference pipeline with FastAPI and Streamlit.
